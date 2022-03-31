@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T11:19:27.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36 OPR/84.0.4316.42" etag="R0YcKP2tDmV1WuGPFzXu" version="17.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-31T11:22:22.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36 OPR/84.0.4316.42" etag="EZQT6SVuZ2Nmc_OoPE7R" version="17.3.0" type="github">
   <diagram id="82QFJBDEPz6zvyBv5BAl" name="Page-1">
     <mxGraphModel dx="2287" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,16 +108,16 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1HBcHDyOb9saK0gviChO-57" value="Slide Menu" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1320" width="140" height="120" as="geometry" />
+          <mxGeometry x="430" y="1320" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1HBcHDyOb9saK0gviChO-58" value="Profile Image" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1HBcHDyOb9saK0gviChO-57">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+          <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1HBcHDyOb9saK0gviChO-59" value="Video Call Page" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1HBcHDyOb9saK0gviChO-57">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+          <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1HBcHDyOb9saK0gviChO-60" value="Theme Option" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1HBcHDyOb9saK0gviChO-57">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
+          <mxGeometry y="90" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1HBcHDyOb9saK0gviChO-62" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
           <mxGeometry x="30" y="1520" width="200" height="390" as="geometry" />
@@ -162,6 +162,18 @@
         </mxCell>
         <mxCell id="1HBcHDyOb9saK0gviChO-70" value="Profile Page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="1705" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1HBcHDyOb9saK0gviChO-72" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1920" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="1HBcHDyOb9saK0gviChO-73" value="Video Call" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="2105" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1HBcHDyOb9saK0gviChO-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HBcHDyOb9saK0gviChO-59" target="1HBcHDyOb9saK0gviChO-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HBcHDyOb9saK0gviChO-75" value="Video Call -&amp;gt; Agora&amp;nbsp;&lt;br&gt;Image &amp;amp; Chat -&amp;gt; Firebase&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2120" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
