@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T11:16:14.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36 OPR/84.0.4316.42" etag="JPDTfM53OW0KGSK0ZWxK" version="17.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-31T11:19:27.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36 OPR/84.0.4316.42" etag="R0YcKP2tDmV1WuGPFzXu" version="17.3.0" type="github">
   <diagram id="82QFJBDEPz6zvyBv5BAl" name="Page-1">
     <mxGraphModel dx="2287" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1HBcHDyOb9saK0gviChO-62" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1520" width="200" height="390" as="geometry" />
+          <mxGeometry x="30" y="1520" width="200" height="390" as="geometry" />
         </mxCell>
         <mxCell id="1HBcHDyOb9saK0gviChO-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HBcHDyOb9saK0gviChO-54" target="1HBcHDyOb9saK0gviChO-62">
           <mxGeometry relative="1" as="geometry">
@@ -131,7 +131,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1HBcHDyOb9saK0gviChO-64" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1510" width="200" height="390" as="geometry" />
+          <mxGeometry x="240" y="1520" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="1HBcHDyOb9saK0gviChO-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HBcHDyOb9saK0gviChO-55" target="1HBcHDyOb9saK0gviChO-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="1395" />
+              <mxPoint x="10" y="1500" />
+              <mxPoint x="340" y="1500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1HBcHDyOb9saK0gviChO-66" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1520" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="1HBcHDyOb9saK0gviChO-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HBcHDyOb9saK0gviChO-56" target="1HBcHDyOb9saK0gviChO-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="1425" />
+              <mxPoint x="20" y="1480" />
+              <mxPoint x="550" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1HBcHDyOb9saK0gviChO-68" value="Chat Page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="1705" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1HBcHDyOb9saK0gviChO-69" value="Home Page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1705" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1HBcHDyOb9saK0gviChO-70" value="Profile Page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1705" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
