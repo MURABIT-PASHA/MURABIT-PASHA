@@ -1,5 +1,4 @@
-# Your Name
-    Murabıt Akdoğan
+# Murabıt Akdoğan
 
 ## Contact Information
 
@@ -11,12 +10,11 @@
 
 ## Summary
 
-A brief summary of your professional background and accomplishments.
+/*A brief summary of your professional background and accomplishments.*/
 
 ## Professional Experience
 
-### Company Name
-Google Game and App Academy
+### Google Game and App Academy
 
 - Trainee
 
