@@ -12,8 +12,7 @@
 
 *I develop my nearly 3 years of experience in the world of mobile games and applications by working freelance on Android Development.
 In particular, I conduct my work by publishing it as open source in environments such as GitHub.
-Besides these studies, I also work on machine learning, artificial intelligence and data science. I attach great importance to machine learning, especially in the software I develop.
-*
+Besides these studies, I also work on machine learning, artificial intelligence and data science. I attach great importance to machine learning, especially in the software I develop.*
 
 ## Professional Experience
 
