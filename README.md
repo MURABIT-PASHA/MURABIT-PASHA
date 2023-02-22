@@ -16,7 +16,9 @@
 
 [![Image](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=murabit-pasha&width=900&height=200&sort-by-score=true&skills=JavaScript,html,C%2B%2B,css,c,dart,python,json,php,TypeScript,SQL,TSQL&show-other-skills=false)](https://profile.codersrank.io/user/murabit-pasha/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MURABIT-PASHA&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MURABIT-PASHA&layout=compact&theme=vision-friendly-dark)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MURABIT-PASHA&theme=dark&border_radius=15)](https://git.io/streak-stats)
 
 ## Contact Information
 
