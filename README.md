@@ -12,9 +12,11 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=MURABIT-PASHA&style=flat-square&color=blue" alt=""/>
 
-## CodersRank
+## Overview
 
 [![Image](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=murabit-pasha&width=900&height=200&sort-by-score=true&skills=JavaScript,html,C%2B%2B,css,c,dart,python,json,php,TypeScript,SQL,TSQL&show-other-skills=false)](https://profile.codersrank.io/user/murabit-pasha/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MURABIT-PASHA&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Information
 
