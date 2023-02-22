@@ -1,5 +1,7 @@
 # Murabıt Akdoğan
-
+------------
+https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white
+------------
 ## CodersRank
 
 [![Image](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=murabit-pasha&width=900&height=200&sort-by-score=true&skills=JavaScript,html,C%2B%2B,css,c,dart,python,json,php,TypeScript,SQL,TSQL&show-other-skills=false)](https://profile.codersrank.io/user/murabit-pasha/)
