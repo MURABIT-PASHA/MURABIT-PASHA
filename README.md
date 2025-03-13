@@ -28,7 +28,6 @@
       <tr>
           <td>
               <p><strong>Email:</strong> <a href="mailto:akdoganmurabit@gmail.com">akdoganmurabit@gmail.com</a></p>
-              <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/murabit-akdogan" target="_blank">www.linkedin.com/in/murabit-akdogan</a></p>
               <p><strong>Location:</strong> Konya/Turkey</p>
           </td>
           <td>
@@ -37,30 +36,3 @@
       </tr>
   </table>
 </div>
-
-
-## Summary
-
-*I develop my nearly 4 years of experience in the world of mobile games and applications by working freelance on Android Development.
-In particular, I conduct my work by publishing it as open source in environments such as GitHub.
-Besides these studies, I also work on machine learning, artificial intelligence and data science. I attach great importance to machine learning, especially in the software I develop.*
-
-## Professional Experience
-
-### Google Game and App Academy
-
-- Trainee
-
-
-## Education
-
-- 4, Konya Technical University, Computer Engineer (4)
-
-## Skills
-
-- Dart
-- C#
-- Java
-- Kotlin
-- Python
-- SQL
